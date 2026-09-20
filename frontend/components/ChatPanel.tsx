@@ -27,7 +27,7 @@ export function ChatPanel({
     {
       role: "assistant",
       content:
-        "Hi! I’m Nimbus. Ask me about the weather, travel timing, or what to wear.",
+        "Hi! I’m SkySense. Ask me about the weather, travel timing, or what to wear.",
     },
   ]);
 
@@ -126,7 +126,7 @@ export function ChatPanel({
         </div>
 
         <div>
-          <strong>Nimbus AI</strong>
+          <strong>SkySense AI</strong>
 
           <span>
             <i /> Weather assistant

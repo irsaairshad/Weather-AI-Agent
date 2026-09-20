@@ -244,7 +244,7 @@ export default function Dashboard() {
           <span>
             <CloudSun />
           </span>
-          <strong>Nimbus</strong>
+          <strong>SkySense</strong>
         </div>
 
         <nav>
@@ -402,7 +402,7 @@ export default function Dashboard() {
 
             <button onClick={() => setChat(true)}>
               <Bot size={19} />
-              Ask Nimbus AI
+              Ask SkySense AI
             </button>
           </div>
 
